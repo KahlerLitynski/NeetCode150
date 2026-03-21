@@ -1,4 +1,4 @@
-# Thursday March 19th
+# Thursday March 19th, 2026
 #
 # Problem: Group Anagrams
 # Given an array of strings `strs`, group all anagrams together into sublists.
