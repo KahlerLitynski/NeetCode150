@@ -26,9 +26,6 @@
 # I keep moving the pointers until their sum matches the target, then return
 # the indices as 1-indexed values to match the problem requirements.
 
-
-
-
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
         index1 = 0
